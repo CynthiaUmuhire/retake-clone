@@ -1252,6 +1252,10 @@ video {
     background-color: rgb(229 231 235 / var(--tw-bg-opacity));
   }
 
+  .md\:fill-inherit {
+    fill: inherit;
+  }
+
   .md\:pl-4 {
     padding-left: 1rem;
   }
@@ -1357,5 +1361,9 @@ video {
   .lg\:border-black {
     --tw-border-opacity: 1;
     border-color: rgb(0 0 0 / var(--tw-border-opacity));
+  }
+
+  .lg\:fill-inherit {
+    fill: inherit;
   }
 }

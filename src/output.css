@@ -1237,6 +1237,10 @@ video {
     margin-left: 2.5rem;
   }
 
+  .lg\:ml-40 {
+    margin-left: 10rem;
+  }
+
   .lg\:block {
     display: block;
   }
